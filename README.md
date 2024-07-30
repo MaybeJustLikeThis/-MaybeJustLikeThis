@@ -10,6 +10,8 @@
 -热爱生活🍻
 
 在大一时加入云顶书院前端方向大家庭，和大家一起学习前端技能。🤺🤺🤺
+在为成为一个伟大的全栈工程师努力着！
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeJustLikeThis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 实习经历
 
@@ -48,6 +50,5 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MaybeJustLikeThis&theme=highcontrast" />
  <img width="40%" src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
 </div>
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeJustLikeThis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+ 
