@@ -16,6 +16,6 @@
 ## 📦GitHub
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LonelySnowman&theme=highcontrast" />
-  <img width="40%" src="https://cdn.jsdelivr.net/gh/lonelysnowman/lonelysnowman/imgs/code.gif" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MaybeJustLikeThis&theme=highcontrast" />
+  <img width="40%" src="https://cdn.jsdelivr.net/gh/MaybeJustLikeThis/MaybeJustLikeThis/imgs/code.gif" />
 </div>
