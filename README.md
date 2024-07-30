@@ -17,5 +17,5 @@
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MaybeJustLikeThis&theme=highcontrast" />
-  <img width="40%" src="https://cdn.jsdelivr.net/gh/MaybeJustLikeThis/MaybeJustLikeThis/imgs/code.gif" />
+  <img width="40%" src="https://cdn.jsdelivr.net/gh/maybejustlikethis/maybejustlikethis/imgs/code.gif" />
 </div>
